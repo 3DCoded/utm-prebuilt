@@ -1,0 +1,24 @@
+[
+    {
+        "name": "CentOS 9 Stream Prebuilt",
+        "image": "",
+        "tags": [
+            [
+                "Prebuilt",
+                "success"
+            ],
+            [
+                "Linux",
+                "primary"
+            ],
+            [
+                "Desktop",
+                "secondary"
+            ],
+            [
+                "Custom",
+                "warning"
+            ]
+        ]
+    }
+]
