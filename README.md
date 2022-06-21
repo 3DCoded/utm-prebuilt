@@ -1,2 +1,2 @@
-# utm-prebuilt
-Prebuilt (and not prebuilt) templates for use with utmapp/UTM.
+# UTM Prebuilt
+Prebuilt (and not prebuilt) template VMs for use with utmapp/UTM.
