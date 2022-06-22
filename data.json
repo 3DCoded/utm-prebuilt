@@ -1,7 +1,7 @@
 [
     {
         "name": "CentOS 9 Stream Prebuilt",
-        "image": "",
+        "image": "Screenshots/CentOS 9 Stream Prebuilt.png",
         "tags": [
             [
                 "Prebuilt",
