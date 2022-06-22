@@ -4,7 +4,7 @@ from jinja2 import Environment, FileSystemLoader, Template
 from yaml import load
 
 with open('data.json') as file:
-    items = json.load(file)
+    vms = json.load(file)
 
 
 def render_template(filename, **kwargs):
@@ -19,4 +19,4 @@ def build_template(filename, dest, **kwargs):
         file.write(render_template(filename, **kwargs))
 
 
-build_template('index.html', 'index.html')
+build_template('index.html', 'index.html', vms=vms)
